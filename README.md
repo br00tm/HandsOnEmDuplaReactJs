@@ -1,5 +1,9 @@
 # Curso ReactJS
 
+
+USER ADMIN: admin@admin.com
+PASSWORD: 123456
+
 Este projeto contém o código-fonte e a documentação para um curso prático de ReactJS, onde desenvolvemos uma aplicação de loja virtual com várias funcionalidades modernas.
 
 ## Descrição do Projeto
