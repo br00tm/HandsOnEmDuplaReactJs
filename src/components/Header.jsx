@@ -76,6 +76,8 @@ const Header = ({ cartCount = 0 }) => {
                         <li><Link className="dropdown-item" to="/admin/users">Usuários</Link></li>
                         <li><Link className="dropdown-item" to="/admin/products">Produtos</Link></li>
                         <li><Link className="dropdown-item" to="/admin/categories">Categorias</Link></li>
+                        <li><Link className="dropdown-item" to="/admin/carriers">Transportadoras</Link></li>
+                        <li><Link className="dropdown-item" to="/admin/orders">Pedidos</Link></li>
                         <li><hr className="dropdown-divider" /></li>
                       </>
                     )}
